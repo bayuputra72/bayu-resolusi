@@ -2,3 +2,5 @@ Rencana lain Bayu:
 -Konsisten Belajar C#
 -Konsisten Belajar MVC
 -Konsisten Belajar SQL Server
+-Konsisten Belajar IIS 
+-Konsisten Belajar Azure
