@@ -1,4 +1,6 @@
 Rencana lain Bayu:
+-Konsisten Belajar Java
 -Konsisten Belajar C#
 -Konsisten Belajar MVC
 -Konsisten Belajar SQL Server
+-Konsisten Belajar IIS
